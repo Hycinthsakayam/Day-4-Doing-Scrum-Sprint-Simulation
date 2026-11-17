@@ -1,4 +1,4 @@
-# Burndown chart
+# Question 5 – Burndown chart
 
 **Question:** Prepare a sprint burndown for 10 days from a supplied completed-points table and interpret the trend.
 
@@ -15,3 +15,14 @@ Scope: 23 points, 24 from day 4 (refund-to-wallet added, two small stories remov
 ![burndown](burndown_chart.png)
 
 **Interpretation:** the line stays flat on days 1–3 because stories only count when Done and the UPI sandbox limit slowed testing – the team is above the ideal line. On day 4 the scope grows by 1 point (refund-to-wallet in, two small stories out), which hides part of that day's progress. From day 4 the team closes stories steadily, and by day 8 it is back on the ideal line. All 24 points are done on day 10. Lesson: break stories into smaller pieces so they reach Done earlier, which avoids the flat start.
+
+
+## Files in this folder
+
+- [burndown_chart.png](burndown_chart.png)
+- [completed_points.csv](completed_points.csv)
+- [flowchart.svg](flowchart.svg)
+
+## Approach
+
+![flowchart](flowchart.svg)

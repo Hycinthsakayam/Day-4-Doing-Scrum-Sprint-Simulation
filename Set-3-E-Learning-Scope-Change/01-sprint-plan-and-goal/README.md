@@ -1,4 +1,4 @@
-# Sprint plan and goal
+# Question 1 – Sprint plan and goal
 
 **Question:** Using a supplied backlog and velocity of 30 points, plan the sprint and state the Sprint Goal.
 
@@ -19,3 +19,13 @@ LRN-305 (5) would make 34 – above velocity. LRN-308 (13) needs splitting first
 ### Sprint Goal
 
 > **"A learner can pay, enrol, watch a course with progress tracking and pass a module quiz."**
+
+
+## Files in this folder
+
+- [flowchart.svg](flowchart.svg)
+- [product_backlog.md](product_backlog.md)
+
+## Approach
+
+![flowchart](flowchart.svg)

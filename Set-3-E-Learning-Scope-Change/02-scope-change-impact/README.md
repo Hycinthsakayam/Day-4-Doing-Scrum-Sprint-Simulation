@@ -1,4 +1,4 @@
-# Scope change impact
+# Question 2 – Scope change impact
 
 **Question:** Analyse the impact of the new request on the sprint: what can be swapped out, what must wait and how the Sprint Goal is protected.
 
@@ -19,3 +19,12 @@ Not started – LRN-307 rating (3).
 
 Net change: −3 + 3 = 0 points, sprint stays at 29. The PO made the decision with the Developers; the Scrum Master made
 sure the change was discussed openly at the next stand-up and not pushed in silently.
+
+
+## Files in this folder
+
+- [flowchart.svg](flowchart.svg)
+
+## Approach
+
+![flowchart](flowchart.svg)

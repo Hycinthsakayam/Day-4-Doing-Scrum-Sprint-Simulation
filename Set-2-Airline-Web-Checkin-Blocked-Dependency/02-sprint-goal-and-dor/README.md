@@ -1,4 +1,4 @@
-# Sprint goal and dor
+# Question 2 – Sprint goal and dor
 
 **Question:** Write the Sprint Goal and select stories; document the Definition of Ready check for each selected story.
 
@@ -31,3 +31,12 @@
 | Test data available | ✔ | ✔ | Test cards ✔ | ✔ | ✔ |
 
 All five stories were Ready. CHK-203 depended on the payment sandbox, which was working at planning.
+
+
+## Files in this folder
+
+- [flowchart.svg](flowchart.svg)
+
+## Approach
+
+![flowchart](flowchart.svg)

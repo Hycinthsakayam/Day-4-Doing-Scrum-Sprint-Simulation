@@ -13,7 +13,7 @@
 
 **Deliverables**
 
-- Impediment log: [Task 3](./03-impediment-log/impediment_log.md)
-- Sprint plan: [Task 1](./01-capacity-and-commitment/capacity.md), [Task 2](./02-sprint-goal-and-dor/sprint_plan.md)
-- Review agenda: [Task 5](./05-sprint-review-agenda/review_agenda_and_demo.md)
-- Written async stand-up: [Task 6](./06-async-standup/async_standup.md)
+- Impediment log: [Question 3](./03-impediment-log/)
+- Sprint plan: [Question 1](./01-capacity-and-commitment/), [Question 2](./02-sprint-goal-and-dor/)
+- Review agenda: [Question 5](./05-sprint-review-agenda/)
+- Written async stand-up: [Question 6](./06-async-standup/)

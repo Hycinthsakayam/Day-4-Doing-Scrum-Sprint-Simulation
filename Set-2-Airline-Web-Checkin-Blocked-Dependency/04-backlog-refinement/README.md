@@ -1,4 +1,4 @@
-# Backlog refinement
+# Question 4 – Backlog refinement
 
 **Question:** Run a refinement session on next sprint's top five stories: split one oversized story and re-estimate.
 
@@ -24,3 +24,12 @@ The team split it vertically by passenger type, so each part can be released alo
 
 Re-estimated with Planning Poker: 13 points became 5 + 3 + 5 = 13 in total, but every piece is now ≤ 5 and fits a sprint
 with room for others. Top-five backlog after refinement: 210a, 210b, 210c, 211, 213 = 26 points.
+
+
+## Files in this folder
+
+- [flowchart.svg](flowchart.svg)
+
+## Approach
+
+![flowchart](flowchart.svg)

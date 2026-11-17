@@ -1,4 +1,4 @@
-# Retrospective and dod pipeline
+# Question 6 – Retrospective and dod pipeline
 
 **Question:** Write the retrospective (what went well, what to improve, two action items with owners) and map the Definition of Done to a build pipeline (build, test, review, merge).
 
@@ -46,3 +46,12 @@ jobs:
       - run: ./scripts/coverage-gate.sh 80      # fail below 80%
       - run: ./scripts/security-scan.sh         # dependency / SAST scan
 ```
+
+
+## Files in this folder
+
+- [flowchart.svg](flowchart.svg)
+
+## Approach
+
+![flowchart](flowchart.svg)

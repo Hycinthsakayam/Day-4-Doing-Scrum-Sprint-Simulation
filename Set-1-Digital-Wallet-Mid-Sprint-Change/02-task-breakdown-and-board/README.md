@@ -1,4 +1,4 @@
-# Task breakdown and board
+# Question 2 – Task breakdown and board
 
 **Question:** Break three selected stories into tasks with hour estimates and record them on the sprint board.
 
@@ -29,3 +29,12 @@
 | WAL-104 Security tests (Meena) | WAL-101 Tests (Meena) | |
 | WAL-104 PIN lockout API (Karthik) | | |
 | WAL-103, WAL-107, WAL-108 (not yet broken down) | | |
+
+
+## Files in this folder
+
+- [flowchart.svg](flowchart.svg)
+
+## Approach
+
+![flowchart](flowchart.svg)

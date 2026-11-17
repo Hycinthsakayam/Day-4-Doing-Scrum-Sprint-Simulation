@@ -1,4 +1,4 @@
-# Sprint review agenda
+# Question 5 – Sprint review agenda
 
 **Question:** Prepare the Sprint Review agenda and demonstration script against the acceptance criteria.
 
@@ -23,3 +23,12 @@
 | 6 | Pay with the declined test card | Then the original seat stays and "Payment declined" is shown | ✔ |
 | 7 | Complete check-in and open the boarding pass | Then a QR boarding pass with gate, seat and boarding time appears | ✔ |
 | 8 | Add frequent-flyer number `AI1234567` | Then the number is printed on the boarding pass | ✔ |
+
+
+## Files in this folder
+
+- [flowchart.svg](flowchart.svg)
+
+## Approach
+
+![flowchart](flowchart.svg)

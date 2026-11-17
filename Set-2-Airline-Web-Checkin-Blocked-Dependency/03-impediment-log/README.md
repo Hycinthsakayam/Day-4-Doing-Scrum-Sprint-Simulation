@@ -1,4 +1,4 @@
-# Impediment log
+# Question 3 – Impediment log
 
 **Question:** Log the impediment (description, impact, owner, escalation path, expected resolution) and show how the Scrum Master would remove it.
 
@@ -23,3 +23,12 @@
 3. Day 5: no ETA from support, so escalates to the vendor manager; asks the PO to tell the business that CHK-203 may slip.
 4. Day 6: sandbox restored; the team switches from the mock to the real sandbox and runs the payment tests.
 5. Retrospective: add "check third-party sandbox health daily" to the stand-up checklist.
+
+
+## Files in this folder
+
+- [flowchart.svg](flowchart.svg)
+
+## Approach
+
+![flowchart](flowchart.svg)

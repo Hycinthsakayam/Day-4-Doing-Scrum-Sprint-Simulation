@@ -1,4 +1,4 @@
-# Velocity and sprint goal
+# Question 1 – Velocity and sprint goal
 
 **Question:** Calculate the average velocity, select stories from a supplied backlog to match it, and write a measurable Sprint Goal.
 
@@ -27,3 +27,13 @@ WAL-105 (KYC, 8) would take the sprint to 31, far above our velocity, so it stay
 >
 > Measured by: the end-to-end flow (top-up → PIN → transfer → history) passes on the staging environment for 20 test
 > users, with 95% of transfers confirmed within 5 seconds.
+
+
+## Files in this folder
+
+- [flowchart.svg](flowchart.svg)
+- [product_backlog.md](product_backlog.md)
+
+## Approach
+
+![flowchart](flowchart.svg)

@@ -13,7 +13,7 @@
 
 **Deliverables**
 
-- Sprint backlog: [Task 1](./01-velocity-and-sprint-goal/sprint_backlog.md), [Task 2](./02-task-breakdown-and-board/task_breakdown.md)
-- Impediment log: [Task 3](./03-daily-standup-day-3/standup_and_impediment_log.md)
-- Burndown chart: [Task 5](./05-burndown-chart/burndown_chart.png)
-- Retrospective actions and pipeline mapping: [Task 6](./06-retrospective-and-dod-pipeline/retrospective_and_pipeline.md)
+- Sprint backlog: [Question 1](./01-velocity-and-sprint-goal/), [Question 2](./02-task-breakdown-and-board/)
+- Impediment log: [Question 3](./03-daily-standup-day-3/)
+- Burndown chart: [Question 5](./05-burndown-chart/burndown_chart.png)
+- Retrospective actions and pipeline mapping: [Question 6](./06-retrospective-and-dod-pipeline/)

@@ -34,7 +34,7 @@ Sprint plan for velocity 30, impact of the certificate request, a blocked-develo
 
 Each question has its own folder. Inside, you can find:
 
-- A Markdown file with my answer (it starts with the question).
+- `README.md` with the question and my answer (it opens automatically on GitHub).
 - Any supporting files, such as CSV tables, charts or a JIRA import file.
 - `flowchart.svg`, which shows the steps I followed.
 

@@ -1,4 +1,4 @@
-# Async standup
+# Question 6 – Async standup
 
 **Question:** Run one stand-up in written, asynchronous format for a distributed team across two time zones and compare it with a live stand-up.
 
@@ -35,3 +35,12 @@ Posted in the team channel `#checkin-standup` by 10:00 local time; the Scrum Mas
 | Risk | Turns into status reporting to the SM | Posts become copy-paste; blockers may be missed |
 
 The team uses async posts on four days and one live overlap call (08:30 EST / 19:00 IST) on Mondays.
+
+
+## Files in this folder
+
+- [flowchart.svg](flowchart.svg)
+
+## Approach
+
+![flowchart](flowchart.svg)

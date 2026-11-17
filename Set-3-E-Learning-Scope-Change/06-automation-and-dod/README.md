@@ -1,4 +1,4 @@
-# Automation and dod
+# Question 6 – Automation and dod
 
 **Question:** Explain, in a short note, how automation (unit tests, linting, pipeline) supports the Definition of Done.
 
@@ -34,3 +34,12 @@ jobs:
       - run: npm run build
       - run: npm run deploy:staging  # only reached if everything above passed
 ```
+
+
+## Files in this folder
+
+- [flowchart.svg](flowchart.svg)
+
+## Approach
+
+![flowchart](flowchart.svg)

@@ -1,4 +1,4 @@
-# Reprioritise after change
+# Question 4 – Reprioritise after change
 
 **Question:** Re-prioritise the backlog after the refund-to-wallet request: state what is added, what is removed and who decides.
 
@@ -18,3 +18,12 @@ so that I get my money back instantly – 5 points.**
 
 If the refund had needed new integrations (e.g. a new bank API), the PO would have put it at the top of the next sprint
 instead of changing this one.
+
+
+## Files in this folder
+
+- [flowchart.svg](flowchart.svg)
+
+## Approach
+
+![flowchart](flowchart.svg)

@@ -1,4 +1,4 @@
-# Daily standup day 3
+# Question 3 – Daily standup day 3
 
 **Question:** Write a daily stand-up update (yesterday, today, impediment) for three team members on day 3.
 
@@ -26,3 +26,12 @@
 | 1 | Day 3 | UPI sandbox limited to 50 calls / day | Top-up and webhook testing stops in the afternoon | Anitha (SM) | Raised with bank's partner team; limit raised to 500 | Closed day 4 |
 | 2 | Day 3 | No test UPI handles for 20 users on staging | Cannot test the sprint goal flow | Karthik | Script to create test handles | Closed day 3 |
 | 3 | Day 6 | Push notification certificate for iOS expired | Receiver notification (WAL-102) fails on iOS | Arun | Renewed via Apple developer account | Closed day 7 |
+
+
+## Files in this folder
+
+- [flowchart.svg](flowchart.svg)
+
+## Approach
+
+![flowchart](flowchart.svg)

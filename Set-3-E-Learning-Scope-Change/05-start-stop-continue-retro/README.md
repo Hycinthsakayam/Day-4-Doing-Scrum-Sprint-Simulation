@@ -1,4 +1,4 @@
-# Start stop continue retro
+# Question 5 – Start stop continue retro
 
 **Question:** Facilitate a retrospective using the Start-Stop-Continue format and produce three SMART action items.
 
@@ -17,3 +17,12 @@
 | 1 | Every story that calls another team's service has an approved API contract (OpenAPI file) before it is marked Ready | 100% of such stories in next sprint planning | Sanjay | Contract template already exists | Before next sprint planning |
 | 2 | Split all stories larger than 5 points in refinement | No story > 5 points in the next sprint backlog | Nithya (SM) | 2 refinement sessions planned | Next sprint |
 | 3 | Limit work in progress to 3 stories on the board | WIP never above 3 on the daily board check | Whole team; tracked by Nithya | Board supports WIP limits | From day 1 of next sprint, reviewed at next retro |
+
+
+## Files in this folder
+
+- [flowchart.svg](flowchart.svg)
+
+## Approach
+
+![flowchart](flowchart.svg)

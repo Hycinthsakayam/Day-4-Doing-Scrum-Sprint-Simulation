@@ -1,4 +1,4 @@
-# Velocity with partial work
+# Question 4 – Velocity with partial work
 
 **Question:** Calculate the velocity for the sprint from a completed-points table where one story is 80 percent done, and explain how partially done work is counted.
 
@@ -20,3 +20,13 @@ the product backlog; the team re-estimates the **remaining** work (about 3 point
 for the next sprint. The original 8 points are not added later, so velocity is not inflated.
 
 The Sprint Goal was **not fully met** (the quiz is not usable), which is discussed in the review and retrospective.
+
+
+## Files in this folder
+
+- [completed_points.csv](completed_points.csv)
+- [flowchart.svg](flowchart.svg)
+
+## Approach
+
+![flowchart](flowchart.svg)

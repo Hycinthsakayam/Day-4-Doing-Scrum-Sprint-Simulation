@@ -1,4 +1,4 @@
-# Capacity and commitment
+# Question 1 – Capacity and commitment
 
 **Question:** Compute the team capacity (six members, 8 working days, 70 percent focus factor) and decide the number of points to commit.
 
@@ -20,3 +20,12 @@ Points per focus hour = 30 / 336 = 0.089 → 268.8 × 0.089 = **24 points**.
 (Same as scaling by days: 30 × 8 / 10 = 24.)
 
 The team commits to **24 points** and keeps a 3-point story ready as a stretch item.
+
+
+## Files in this folder
+
+- [flowchart.svg](flowchart.svg)
+
+## Approach
+
+![flowchart](flowchart.svg)

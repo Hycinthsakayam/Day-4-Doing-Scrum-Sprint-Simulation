@@ -1,4 +1,4 @@
-# Blocked developer standup
+# Question 3 – Blocked developer standup
 
 **Question:** Write the stand-up statements for a developer who is blocked on a missing API contract and the Scrum Master's follow-up action.
 
@@ -19,3 +19,12 @@
 4. Nithya adds the item to the impediment log, checks at 4 PM that the platform team has approved the contract, and
    reports at the next stand-up.
 5. Retrospective topic: agree API contracts in refinement before a story is Ready.
+
+
+## Files in this folder
+
+- [flowchart.svg](flowchart.svg)
+
+## Approach
+
+![flowchart](flowchart.svg)
